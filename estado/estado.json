@@ -1,0 +1,46 @@
+﻿{
+    "invima":  {
+                   "ultima_revision":  "2026-11-11",
+                   "archivos":  {
+                                    "vigentes":  {
+                                                     "mes":  "2026-10",
+                                                     "archivo":  "ListadoCodigoUnicoVigentesOctubre2026.xlsx",
+                                                     "descargado":  "2026-11-11"
+                                                 },
+                                    "vencidos":  {
+                                                     "mes":  "2026-10",
+                                                     "archivo":  "ListadoCodigoUnicoVencidosOctubre2026.xlsx",
+                                                     "descargado":  "2026-11-11"
+                                                 },
+                                    "renovacion":  {
+                                                       "mes":  "2026-10",
+                                                       "archivo":  "ListadoCodigoUnicoRenovacionOctubre2026.xlsx",
+                                                       "descargado":  "2026-11-11"
+                                                   },
+                                    "otrosestados":  {
+                                                         "mes":  "2026-10",
+                                                         "archivo":  "ListadoCodigoUnicoOtrosEstadosOctubre2026.xlsx",
+                                                         "descargado":  "2026-11-11"
+                                                     }
+                                }
+               },
+    "minsalud":  {
+                     "ultima_revision":  "2026-11-11",
+                     "vigencia":  2026,
+                     "zip_modificado":  "Fri, 22 May 2026 15:54:45 GMT",
+                     "archivos":  {
+                                      "cups":  {
+                                                   "archivo":  "2026_TR CUPS COBERTURA.xlsb",
+                                                   "descargado":  "2026-02-02"
+                                               },
+                                      "cie10":  {
+                                                    "archivo":  "2026_TR CIE-10.xlsx",
+                                                    "descargado":  "2026-02-02"
+                                                },
+                                      "reps":  {
+                                                   "archivo":  "2026_REPS.xlsx",
+                                                   "descargado":  "2026-02-02"
+                                               }
+                                  }
+                 }
+}

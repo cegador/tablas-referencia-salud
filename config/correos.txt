@@ -1,0 +1,2 @@
+# Direcciones que reciben el aviso despues de cada revision.
+# Una direccion por linea. Las lineas que empiezan con # no cuentan.

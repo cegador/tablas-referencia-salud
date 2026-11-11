@@ -1,0 +1,12 @@
+# Datos descargados: no se suben (pesan ~60 MB y el script los descarga solo)
+tablas/
+originales/
+historico/
+
+# Resultados de cada ejecucion
+estado/ultimo_resultado.json
+estado/historial.log
+estado/tmp/
+
+# Ajustes locales de Claude
+.claude/settings.local.json
